@@ -4,7 +4,7 @@ idobata_invitation
 
 TechnoeyeIsozaki
 
-https://idobata.io/organizations/ruby-b-developers/invitation/1e21d765-3899-47e9-818a-916ff4a9af34
+https://idobata.io/organizations/ruby-b-developers/invitation/9094c492-3a95-4356-b2ce-7bce521c6dce
 
 Katsushi06
 
